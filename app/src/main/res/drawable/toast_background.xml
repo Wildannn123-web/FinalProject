@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- toast_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/red"/> <!-- Warna latar belakang -->
+    <corners android:radius="30dp"/> <!-- Radius sudut agar terlihat membulat -->
+    <padding
+        android:left="16dp"
+        android:right="16dp"
+        android:top="12dp"
+        android:bottom="12dp"/> <!-- Padding untuk memberi jarak pada isi Toast -->
+</shape>
